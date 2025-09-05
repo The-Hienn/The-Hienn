@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm The Hien  
 
-<!--
-**The-Hienn/The-Hienn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm learning **Python & Web Development**  
+🚀 I love building apps and sharing knowledge with the community  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=The-Hienn&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 📌 Most Used Languages  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Hienn&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect with me  
+- 📧 Email: **hien9a3xh2@gmail.com**  
+- 🌍 Facebook: [👉 Click here](https://facebook.com/your_link)  
+- 💼 LinkedIn: [👉 Click here](https://linkedin.com/in/your_link)  
+
+---
+
+✨ *Thanks for visiting my GitHub profile!* ✨
+
