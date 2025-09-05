@@ -1,0 +1,69 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+dist/
+build/
+env/
+venv/
+ENV/
+*.sqlite3
+
+# ========================
+# Node.js / React
+# ========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# React build
+/build
+/.cache
+/.parcel-cache
+/.next
+/out
+
+# ========================
+# Java / Spring Boot
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.ipr
+*.iws
+target/
+.idea/
+*.log
+
+# ========================
+# Editors / IDE
+# ========================
+.vscode/
+.settings/
+.project
+.classpath
+
+# ========================
+# OS system files
+# ========================
+.DS_Store
+Thumbs.db
+
+# ========================
+# Secrets / Config
+# ========================
+.env
+*.key
+*.pem
